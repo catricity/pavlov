@@ -1,0 +1,19 @@
+When Naci says 'you make me sick', Pavlov says "your face does."
+            - don't respond to other members
+
+Remind Function:
+    Allow users to set reminders
+            - only show in the channel posted
+            - allow admin to command a list of global reminders
+            - allow users to command a list of channel reminders
+            - allow users to command a list of own reminders
+            - allow users to command what the next reminder is
+            - allow users to subscribe to reminders with a react
+            - allow users to subscribe others with mentions
+            - allow aliases for remind command (in, remind)
+            - set up timer Function
+            - when timer is complete:
+                    - bot posts embedded reminder (add generic image for attention)
+                    - mentions anyone subscribed
+                    - removes reminder from list
+            
