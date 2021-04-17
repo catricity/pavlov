@@ -25,7 +25,7 @@ class definition(commands.Cog, name="Psychology Definitions"):
         self.bot = bot
 
     @commands.command(name = "define", help = "Look up a psychological term or concept")
-    async def define(self, ctx: commands.Context, term: str):
+    async def define(self, ctx: commands.Context, *, term: str):
         # Don't allow responses in unit-join channel #
         if ctx.channel.id == constants.CHANNEL_UNIT_JOIN:
             return
