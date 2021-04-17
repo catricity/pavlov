@@ -9,7 +9,7 @@ from secrets import DISCORD_TOKEN
 from discord.utils import DISCORD_EPOCH, get
 from discord.ext import commands
 
-initial_extensions = ['cogs.remind','cogs.UNE_Links','cogs.forscience_Links','cogs.study_resources']
+initial_extensions = ['cogs.remind','cogs.UNE_Links','cogs.forscience_Links','cogs.study_resources','cogs.definition']
 
 client = discord.Client()
 bot = commands.Bot(command_prefix = '!', description = "Pavlov here, happy to help. Use '!' as a prefix for any command.")
