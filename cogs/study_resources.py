@@ -20,7 +20,7 @@ class study_resources(commands.Cog, name = "Study Resources"):
 
     # Australian Psychological Society #
     @commands.command(name = "aps", help = "Provides a link to the Australian Psychological Society")
-    async def embed(ctx: commands.Context):
+    async def embed(self, ctx: commands.Context):
         if ctx.channel.id == constants.CHANNEL_UNIT_JOIN:
             return
 
