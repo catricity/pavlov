@@ -1,31 +1,34 @@
-{
-        
-    "absolute refractory period" : "the time during which another action potential is impossible.",
-    "action potential" : "electrical impulses that travel down the axon and allow neurons to communicate.", 
-    "anterograde amnesia" : "inability to encode new memories from our experiences.",
-    "aphasia" : "An acquired language impairment that results from brain damage, typically in the left hemisphere. *See also: Broca's Aphasia, Wernicke's Aphasia.*",
+{  
+    "absolute refractory period" : "the time during which another action potential is impossible (Lilienfeld et al., 2014).",
+    "action potential" : "electrical impulses that travel down the axon and allow neurons to communicate (Lilienfeld et al., 2014).", 
+    "adjusted r" : "a measure of th eloss of predictive power or shrinkage in regression. The adjusted R<sup>2</sup> tells us how much variance in the outcome would be accounted for if the model had been derived from the population from which the sample was taken (Field, 2016).",
+    "alpha level" : "the probability of making a **Type 1 Error** (usually set at .05) (Field, 2016).", 
+    "anterograde amnesia" : "inability to encode new memories from our experiences (Lilienfeld et al., 2014).",
+    "aphasia" : "An acquired language impairment that results from brain damage, typically in the left hemisphere (Lilienfeld et al., 2014). *See also: Broca's Aphasia, Wernicke's Aphasia.*",
     "aptitude test" : "a test to assess future learning potential (Schum et al., 2017).",
     "attention" : "the ability to focus on or select one stimulus or process while ignoring another; it has at least three components (i.e. attention span, focused attention, selective attention (Schum et al., 2017).",
     "attribute" : "the consistent set of behaviours, thoughts or feelings that is the target of a psychological test *See also: characteristic* (Schum et al., 2017).",
     
     "base rate" : "the proportion of individuals in the population who show the behaviour of interest in a given psychological testing or assessment situation (Schum et al., 2017).",
+    "binary variable" : "a **categorical variable** that has only two mutually exclusive categories (e.g., being dead or alive) (Field, 2016).",
     
-    "chunking" : "organising information into meaningful groupings, allowing us to extend the span of short-term memory.",
-    "cohort effects" : "effects observed in a sample of participants that result from individuals in the sample growing up at the same time.",
+    "chunking" : "organising information into meaningful groupings, allowing us to extend the span of short-term memory (Lilienfeld et al., 2014).",
+    "cohort effects" : "effects observed in a sample of participants that result from individuals in the sample growing up at the same time (Lilienfeld et al., 2014).",
     "communality" : "the amount of variance in a given variable that is shared with the factors constituting a particular factor matrix (Schum et al., 2017).",
-    "conditioned stimulus" : "the initially neutral stimulus.", 
+    "conditioned stimulus" : "the initially neutral stimulus (Lilienfeld et al., 2014).", 
     "construct" : "a specific idea or concept about a psychological process or underlying trait that is hypothesised on the basis of a psychological theory (Schum et al., 2017).",
-    "corpus callosum" : "a large band of fibres connecting the two cerebral hemispheres of the brain.",
+    "continuous variable" : "a variable that can be measured to any level of precision. (Time is a continuous variable, because there is in principle no limit on how finely it could be measured) (Field, 2016).",
+    "corpus callosum" : "a large band of fibres connecting the two cerebral hemispheres of the brain (Lilienfeld et al., 2014).",
     "cronbachs alpha" : "an estimate of reliability that is based on the average intercorrelation of the items in a test (Schum et al., 2017).",
-    "crystallised intelligence" : "accumulated knowledge of the world acquired over time.",
+    "crystallised intelligence" : "accumulated knowledge of the world acquired over time (Lilienfeld et al., 2014).",
     
     "dass" : "(DASS) a 42-item self-report scale that aims to measure the state of depression, anxiety and stress in adults over the previous week (Schum et al., 2017).",
     "delirium" : "rapid-onset reduced clarity of consciousness and cognition, with confusion, disorientation, and deficits in memory and language (Barlow et al., 2017).",
     
-    "emic" : "the approach of studying a culture's behaviour from the perspective of an insider",
+    "emic" : "the approach of studying a culture's behaviour from the perspective of an insider (Lilienfeld et al., 2014).",
     "emotion" : "pattern of action elicited by an external event and a feeling state, accompanied by a characteristic physiological response (Barlow et al., 2017).",
-    "encoding specificity" : "phenomenon where information is more easily recalled when the conditions under which the information was encoded are similar to the conditions under which we attempt to retrieve it.",
-    "erikson" : "(1902-1994) Responsible for developing the eight Stages of Psychosocial Development theory.*See also: Psychosocial Development Theory.",
+    "encoding specificity" : "phenomenon where information is more easily recalled when the conditions under which the information was encoded are similar to the conditions under which we attempt to retrieve it (Lilienfeld et al., 2014).",
+    "erikson" : "(1902-1994) Responsible for developing the eight Stages of Psychosocial Development theory (Lilienfeld et al., 2014).*See also: Psychosocial Development Theory.*",
     "exploratory factor analysis" : "the use of factor analysis inductively to identify the factor structure of a set of variables (Schum et al., 2017).",
     
     "false negative" : "assessment error in which no pathology is noted (that is, test results are negative) when one is actually present (Barlow et al., 2017). *See also: Type 2 Error.*",
@@ -70,7 +73,7 @@
     "wernicke-korsakoff syndrom" : "organic brain syndrome resulting from prolonged heavy alcohol use, involving confusion, unintelligible speech, and loss of motor coordination. It may be caused by a deficiency of thiamine, a vitamin metabolised poorly by heavy drinkers (Barlow et al., 2017).",
 
 
-    "reference list" : "Barlow, D. H., Durand, V. M., & Hofmann, S., G. (2017). *Abnormal Psychology: An integrative approach* (8th ed). Cengage Learning. \n \n Schum, D., O'Gorman, J., Creed, P., & Myors, B. (2017). *Psychological testing and Assessment* (3rd ed.). Oxford University Press. \n \n"
+    "reference list" : "Barlow, D. H., Durand, V. M., & Hofmann, S., G. (2017). *Abnormal Psychology: An integrative approach* (8th ed). Cengage Learning. Field, A. (2016). *Discovering Statistics Using IBM SPSS Statistics* (4th ed). Sage Publications Ltd. \n \n Lilienfeld, S. O., Lynn, S. J., Namy, L. L., Woolf, N. J., Jamieson, G., Marks, A., & Slaughter, V. (2014). *Psychology: From inquiry to understanding* (2nd ed). Pearson Education Australia.\n \n Schum, D., O'Gorman, J., Creed, P., & Myors, B. (2017). *Psychological testing and Assessment* (3rd ed.). Oxford University Press. \n \n "
 
 
 
