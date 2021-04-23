@@ -1,18 +1,30 @@
 import discord
 import os
+from discord.ext.commands.core import command
+from discord.ext.commands.help import DefaultHelpCommand, HelpCommand
 import requests
 import json
 import random
 import constants
+
 from secrets import DISCORD_TOKEN
 
 from discord.utils import DISCORD_EPOCH, get
 from discord.ext import commands
+from discord.ext.commands import CommandNotFound
 
 initial_extensions = ['cogs.remind','cogs.UNE_Links','cogs.forscience_Links','cogs.study_resources','cogs.definition']
 
+class CustomHelp(DefaultHelpCommand):
+    def command_not_found(self, string: str) -> str:
+        return None
+
+if __name__ == '__main__':
+    chelp = CustomHelp(no_category = "General")
+    chelp.command_attrs['name'] = "help"
+
 client = discord.Client()
-bot = commands.Bot(command_prefix = '!', description = "Pavlov here, happy to help. Use '!' as a prefix for any command.")
+bot = commands.Bot(command_prefix = '!', help_command = chelp, case_insensitive = True, description = "Pavlov here, happy to help. Use '!' as a prefix for any command.")
 member = client.user
 
 def get_quote():
@@ -21,9 +33,9 @@ def get_quote():
     quote = json_data[0]['q'] + " -" + json_data[0]['a']
     return(quote)
 
-if __name__ == '__main__': #load modules defined in initial_extensions
-    for extension in initial_extensions:
-        bot.load_extension(extension)
+    # load modules defined in initial_extensions #
+for extension in initial_extensions:
+    bot.load_extension(extension)
 
 @bot.event
 async def on_ready():
@@ -108,5 +120,12 @@ async def rolecall(ctx: commands.Context):
     roles = ', '.join(map(lambda r: f"`{r.name}`", ctx.guild.roles[4:-5]))
 
     await ctx.channel.send(roles)
+
+@bot.event
+async def on_command_error(ctx, error):
+    ignored = commands.CommandNotFound
+    
+    if isinstance(error, ignored): 
+        pass
 
 bot.run(DISCORD_TOKEN)
