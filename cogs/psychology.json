@@ -1,39 +1,77 @@
 {
+        
     "absolute refractory period" : "the time during which another action potential is impossible.",
     "action potential" : "electrical impulses that travel down the axon and allow neurons to communicate.", 
     "anterograde amnesia" : "inability to encode new memories from our experiences.",
     "aphasia" : "An acquired language impairment that results from brain damage, typically in the left hemisphere. *See also: Broca's Aphasia, Wernicke's Aphasia.*",
+    "aptitude test" : "a test to assess future learning potential (Schum et al., 2017).",
+    "attention" : "the ability to focus on or select one stimulus or process while ignoring another; it has at least three components (i.e. attention span, focused attention, selective attention (Schum et al., 2017).",
+    "attribute" : "the consistent set of behaviours, thoughts or feelings that is the target of a psychological test *See also: characteristic* (Schum et al., 2017).",
+    
+    "base rate" : "the proportion of individuals in the population who show the behaviour of interest in a given psychological testing or assessment situation (Schum et al., 2017).",
+    
     "chunking" : "organising information into meaningful groupings, allowing us to extend the span of short-term memory.",
     "cohort effects" : "effects observed in a sample of participants that result from individuals in the sample growing up at the same time.",
+    "communality" : "the amount of variance in a given variable that is shared with the factors constituting a particular factor matrix (Schum et al., 2017).",
     "conditioned stimulus" : "the initially neutral stimulus.", 
+    "construct" : "a specific idea or concept about a psychological process or underlying trait that is hypothesised on the basis of a psychological theory (Schum et al., 2017).",
     "corpus callosum" : "a large band of fibres connecting the two cerebral hemispheres of the brain.",
+    "cronbachs alpha" : "an estimate of reliability that is based on the average intercorrelation of the items in a test (Schum et al., 2017).",
     "crystallised intelligence" : "accumulated knowledge of the world acquired over time.",
+    
+    "dass" : "(DASS) a 42-item self-report scale that aims to measure the state of depression, anxiety and stress in adults over the previous week (Schum et al., 2017).",
     "delirium" : "rapid-onset reduced clarity of consciousness and cognition, with confusion, disorientation, and deficits in memory and language (Barlow et al., 2017).",
+    
     "emic" : "the approach of studying a culture's behaviour from the perspective of an insider",
     "emotion" : "pattern of action elicited by an external event and a feeling state, accompanied by a characteristic physiological response (Barlow et al., 2017).",
     "encoding specificity" : "phenomenon where information is more easily recalled when the conditions under which the information was encoded are similar to the conditions under which we attempt to retrieve it.",
     "erikson" : "(1902-1994) Responsible for developing the eight Stages of Psychosocial Development theory.*See also: Psychosocial Development Theory.",
+    "exploratory factor analysis" : "the use of factor analysis inductively to identify the factor structure of a set of variables (Schum et al., 2017).",
+    
     "false negative" : "assessment error in which no pathology is noted (that is, test results are negative) when one is actually present (Barlow et al., 2017). *See also: Type 2 Error.*",
     "false positive" : "assessment error in which pathology is reported (that is, test results are positive) when none is actually present (Barlow et al., 2017). *See also: Type 1 Error.*",
+    "fluid intelligence" : "the more pure, inherited aspects of intelligence used to solve novel problems and deal with new situations (Schum et al., 2017).",
+    "flynn effect" : "refers to a steady increase in scores on IQ tests since about the 1930s; first drawn to the public’s attention by James Flynn (Schum et al., 2017).",
+    
     "gene" : "long deoxyribonucleic acid (DNA) molecules, the basic physical units of heredity that appear as locations on chromosomes. A single gene is a subunit of DNA that determines inherited traits in living things (Barlow et al., 2017).",
+    
     "human genome project" : "ongoing scientific attempt to develop a comprehensive map of all human genes (Barlow et al., 2017).",
+    
     "id" : "the unconscious psychical entity present at birth representing basic sexual and aggressive drives. (Barlow et al., 2017). *See also: Psychoanalytic Theory.*",
+    "incremental validity" : "the extent to which knowledge of score on a test (or other assessment device) adds to that obtained by another, pre-existing test score or psychological characteristic (Schum et al., 2017).",
+    "item characteristic curve" : " the term for a trace line in item response theory (Schum et al., 2017).",
+    "item validity" : "the extent to which the score on an item correlates with an external criterion relevant to the attribute or construct that is the subject of test construction (Schum et al., 2017).",
+    
     "job analysis" : "the process of gathering detailed information about the main tasks and contextual responsibilities for a particular job (Schum et al., 2017).",
+    
     "kleptomania" : "recurrent failure to resist urges to steal things not needed for personal use or their monetary value (Barlow et al., 2017).",
+    
     "longitudinal design" : "systematic study of changes in the same individual or group examined over time (Barlow et al., 2017).",
+    
     "mental status exam" : "relatively brief preliminary test of a client's judgement, orientation to time and place, and emotional and mental state; typically conducted during an initial interview (Barlow et al., 2017).",
+    
     "neurotransmitter" : "chemicals that cross the **synaptic cleft** between nerve cells to transmit impulses from one **neuron** to the next. Their relative excess or deficiency is involved in several psychological disorders (Barlow et al., 2017).",
+    
     "obsessions" : " recurrent intrusive thoughts or impulses the client seeks to suppress or neutralise while recognising they are not imposed by outside forces (Barlow et al., 2017).",
+    
     "paraphilia" : "sexual disorder and deviations in which sexual arousal occurs almost exclusively in the context of inappropriate objects or individuals (Barlow et al., 2017).",
+    
     "recurrent" : "repeatedly occurring (Barlow et al., 2017).",
+    
     "stress" : "the physiological response of the body to a **stressor** (Barlow et al., 2017).",
     "stressor" : "any event or change that requires adaptation (Barlow et al., 2017).",
-    "type 1 error" : "kljdlsakfj;a",
-    "type 2 error" : "lkjf;sldakjf",
+   
+    
+    
     "unconscious" : "part of the psychic makeup that is outside the awareness of the person (Barlow et al., 2017).",
+    
     "variability" : "degree of change in a phenomenon over time (Barlow et al., 2017).",
+    
     "wernicke-korsakoff syndrom" : "organic brain syndrome resulting from prolonged heavy alcohol use, involving confusion, unintelligible speech, and loss of motor coordination. It may be caused by a deficiency of thiamine, a vitamin metabolised poorly by heavy drinkers (Barlow et al., 2017).",
 
-    "reference list" : "Barlow, D. H., Durand, V. M., & Hofmann, S., G. (2017). *Abnormal Psychology: An integrative approach* (8th ed). Cengage Learning. \n Schum, D., O'Gorman, J., Creed, P., & Myors, B. (2017). *Psychological testing and Assessment* (3rd ed.). Oxford University Press. \n "
+
+    "reference list" : "Barlow, D. H., Durand, V. M., & Hofmann, S., G. (2017). *Abnormal Psychology: An integrative approach* (8th ed). Cengage Learning. \n \n Schum, D., O'Gorman, J., Creed, P., & Myors, B. (2017). *Psychological testing and Assessment* (3rd ed.). Oxford University Press. \n \n"
+
+
 
 }
