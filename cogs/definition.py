@@ -20,7 +20,7 @@ def define(message: str):
 
         return json_data.get(filteredMessage)
     
-class definition(commands.Cog, name="Psychology Definitions"):
+class definition(commands.Cog, name="Psychological Dictionary"):
     def __init__(self, bot: Bot):
         self.bot = bot
 
